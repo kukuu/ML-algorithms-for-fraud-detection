@@ -1,4 +1,4 @@
-# ML Algorithms and Techniques for fraud detection.
+# ML Algorithms and Techniques for Fraud Detection.
 
 Detecting fraudulent messages using Machine Learning involves analyzing patterns and content to identify suspicious activity.Implementing machine learning for fraud detection requires a solid understanding of both machine learning principles and the specific characteristics of your data. Additionally, ethical considerations, legal compliance, and user privacy should be prioritized throughout the process.
 
