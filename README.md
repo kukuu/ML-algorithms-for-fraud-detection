@@ -40,4 +40,8 @@ Legal Compliance:
 Ensure that any security measures implemented comply with relevant laws and regulations.
 
 # Detecting  fraudulent SMS messages 
+This involves being vigilant and following some best practices. Banks and Financial Institutions  will never ask for sensitive information like passwords or PINs via text message. Verify the message's authenticity through official channels.
+
+Below are some tips to help you identify potentially fraudulent SMS messages:
+
 
