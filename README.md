@@ -3,9 +3,11 @@
 Detecting fraudulent messages using Machine Learning involves analyzing patterns and content to identify suspicious activity.Implementing machine learning for fraud detection requires a solid understanding of both machine learning principles and the specific characteristics of your data. Additionally, ethical considerations, legal compliance, and user privacy should be prioritized throughout the process.
 
 **Natural Language Processing (NLP):**
+
 Use NLP techniques to analyze the text content of messages. This involves tokenization, sentiment analysis, and identifying patterns associated with phishing or fraudulent messages.
 
 **Supervised Learning:**
+
 Train a supervised machine learning model using labeled datasets. The model can learn patterns associated with legitimate and fraudulent messages.
 i. Common algorithms include:
 
@@ -16,6 +18,7 @@ iii. Support Vector Machines (SVM)
 iv. Logistic Regression
 
 **Unsupervised Learning:**
+
 Employ unsupervised learning for anomaly detection, where the algorithm learns the normal behavior of messages and flags anything deviating from the norm. Common techniques include:
 
 i. Clustering (e.g., K-means)
@@ -25,9 +28,11 @@ i. Isolation Forest
 iii. Autoencoders for deep learning
 
 **Feature Engineering:**
+
 Identify relevant features in the message data that can help distinguish between legitimate and fraudulent messages. Features could include the use of specific keywords, unusual grammar patterns, urgency, or other linguistic features.
 
 **Ensemble Methods:**
+
 Combine multiple models to improve overall accuracy. Ensemble methods like Gradient Boosting or stacking different models can be effective.
 Deep Learning:
 
