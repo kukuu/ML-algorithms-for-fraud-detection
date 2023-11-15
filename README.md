@@ -32,13 +32,15 @@ Combine multiple models to improve overall accuracy. Ensemble methods like Gradi
 Deep Learning:
 
 For more complex patterns, deep learning approaches such as recurrent neural networks (RNNs) or transformers (e.g., BERT) can be employed.
-Behavioral Analysis:
+
+**Behavioral Analysis:**
 
 Analyze behavioral patterns, such as the time of day messages are received, the frequency of messages, and other user-specific patterns.
 Cross-Channel Analysis:
 
 Consider analyzing patterns across multiple communication channels (e.g., email, SMS, voice calls) to enhance detection accuracy.
-Temporal Analysis:
+
+**Temporal Analysis:**
 
 Examine temporal patterns to identify anomalies in message timing or frequency.
 
