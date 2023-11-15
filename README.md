@@ -1,4 +1,4 @@
-# Detecting fraudulent SMS messages (Anti-smishing) .
+# Protecting against fraudulent SMS messages (Anti-smishing) .
 
 It is worth noting that building software for any activity that involves unethical practices, including phishing or attempting to detect phishing, is against ethical guidelines and likely illegal. Developing or using software for smishing, which is a form of phishing that involves fraudulent SMS messages, is unethical and can lead to severe legal consequences.
 
@@ -38,3 +38,6 @@ Legal Compliance:
 
 **Comply with relevant laws and regulations:**
 Ensure that any security measures implemented comply with relevant laws and regulations.
+
+# Detecting  fraudulent SMS messages 
+
