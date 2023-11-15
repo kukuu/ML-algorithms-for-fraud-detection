@@ -8,7 +8,7 @@ Use NLP techniques to analyze the text content of messages. This involves tokeni
 
 **Supervised Learning:**
 
-Train a supervised machine learning model using labeled datasets. The model can learn patterns associated with legitimate and fraudulent messages.
+Train a supervised machine learning model using labeled datasets. The model can learn  patterns associated with legitimate and fraudulent messages.
 i. Common algorithms include:
 
 ii. Random Forest
