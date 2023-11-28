@@ -4,7 +4,7 @@ Detecting fraudulent messages using Machine Learning involves analyzing patterns
 
 **Natural Language Processing (NLP):**
 
-Use NLP techniques to analyze the text content of messages. This involves tokenization, sentiment analysis, and identifying patterns associated with phishing or fraudulent messages.
+Use NLP techniques to analyze the text content of messages. This involves tokenization,  sentiment analysis, and identifying patterns associated with phishing or fraudulent messages.
 
 **Supervised Learning:**
 
