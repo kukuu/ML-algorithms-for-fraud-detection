@@ -12,7 +12,7 @@ Train a supervised machine learning model using labeled datasets. The model can 
 i. Common algorithms include:
 
 ii. Random Forest
-
+ 
 iii. Support Vector Machines (SVM)
 
 iv. Logistic Regression
